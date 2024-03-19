@@ -7,3 +7,6 @@ solvers/
 *.sh
 *.o
 *.a
+*.png
+plots/*
+data/*
